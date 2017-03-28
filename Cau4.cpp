@@ -33,7 +33,7 @@ void main()
 			}
 			else
 			{
-				cout << "x=" << -c / b;
+				cout << "x=" << -c / b << endl;
 			}
 		}
 		else
