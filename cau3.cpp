@@ -3,7 +3,8 @@ using namespace std;
 
 void main()
 {
-	long N,sum=0;
+	long N;
+	unsigned long long sum=0;
 	do
 	{
 		system("cls");
