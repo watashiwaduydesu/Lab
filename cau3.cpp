@@ -13,10 +13,10 @@ void main()
 		cin.clear();
 		cin.ignore();
 	} while (N <= 0);
-	for (int i = 1; i <= N; i++)
+	for (int i = 1; i <= N; i+=2)
 	{
 		sum += i*i;
 	}
-	cout << "Tong binh phuong tu cac so nguyen duong tu 1 den " << N << " la " << sum << endl;
+	cout << "Tong binh phuong tu cac so le tu 1 den " << N << " la " << sum << endl;
 	system("pause");
 }
