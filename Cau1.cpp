@@ -3,12 +3,17 @@ using namespace std;
 
 void main()
 {
-	char ch=0;
-	for (int i = 0; i <= 127; i++)
+	for char i = 48; i <= 57; i++)
 	{
-		cout << (char)ch << endl;
-		ch++;
+		cout << i << endl;
+	}
+	for char i = 97; i <= 122; i++)
+	{
+		cout << i << endl;
+	}
+	for char i = 65; i <= 90; i++)
+	{
+		cout << i << endl;
 	}
 	system("pause");
-	system("clr");
 }
