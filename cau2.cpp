@@ -54,20 +54,19 @@ void main()
 	else
 	{
 		cout << "Chieu dai vector " << endl;
-		double sumA = 0, sumB = 0;
 		for (int i = 0; i < A.dimension; i++)
 		{
-			sumA += A.value[i] * A.value[i];
+			A.length += A.value[i] * A.value[i];
 		}
-		sumA = sqrt(sumA);
+		A.length = sqrt(A.length);
 		for (int i = 0; i < B.dimension; i++)
 		{
-			sumB += B.value[i] * B.value[i];
+			B.length += B.value[i] * B.value[i];
 		}
-		sumB = sqrt(sumB);
+		B.length = sqrt(B.length);
 		cout.setf(ios::fixed, ios::floatfield);
 		cout.precision(3);
-		cout << "A ="<< sumA << "    B=" << sumB << endl;
+		cout << "A ="<< A.length << "    B=" << B.length<< endl;
 		double tvh = 0;
 		for (int i = 0; i < A.dimension; i++)
 		{
@@ -78,8 +77,8 @@ void main()
 		{
 			cout << "Tich huong huong = " << "(" << A.value[1] * B.value[2] - A.value[2] * B.value[1] << "," << -A.value[0] * B.value[2] + A.value[2] * B.value[1] << "," << A.value[0] * B.value[1] - A.value[1] * B.value[0] <<")"<< endl;
 		}
-		cout << "Goc 2 vector= " << acos((tvh) / (sumA*sumB)) << endl;
-		cout << "Do dai hinh chieu a tren b = " << tvh / sumB << endl;
-		cout << "Do dai hinh chieu b tren a = " << tvh / sumA << endl;
+		cout << "Goc 2 vector= " << acos((tvh) / (A.length*B.length)) << endl;
+		cout << "Do dai hinh chieu a tren b = " << tvh / B.length << endl;
+		cout << "Do dai hinh chieu b tren a = " << tvh / A.length << endl;
 	}
 }
