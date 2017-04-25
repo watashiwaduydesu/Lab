@@ -294,14 +294,26 @@ void main() {
 	{
 		for (int i = 0; i < 10; i++)
 		{
-			if ((input[j].y - input[j].t) >= range[i].r_min && (input[j].y - input[j].t) < range[i].r_max)
+			if (i < 9)
 			{
-				//cout << (input[j].y - input[j].t) << "~";
-				total++;
-				count[i]++;
-				break;
+				if ((input[j].y - input[j].t) >= range[i].r_min && (input[j].y - input[j].t) < range[i].r_max)
+				{
+					//cout << (input[j].y - input[j].t) << "~";
+					count[i]++;
+					break;
+				}
+			}
+			else
+			{
+				if ((input[j].y - input[j].t) >= range[i].r_min && (input[j].y - input[j].t) <= range[i].r_max)
+				{
+					//cout << (input[j].y - input[j].t) << "~";
+					count[i]++;
+					break;
+				}
 			}
 		}
+		total += count[i];
 	}
 	//Tính tần suất
 	//cout << "total=" << total << endl;
