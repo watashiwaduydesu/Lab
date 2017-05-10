@@ -18,3 +18,16 @@ int data::loadDataAccountRequest() {
 	f.close();
 	return TRUE;
 }
+
+int data::storageDataAccountRequest() {
+	ofstream f(FILE_ACCOUNT_REQUEST);
+	if (!f.is_open()) return NOT_ACCESS_FILE;
+	f << l_account_request.size() << endl;
+	for (account a : l_account_request) {
+		f << a.code << endl << a.name << endl << a.password << endl;
+		f << a.email << endl << a.id << endl << a.username << endl << a.tel << endl;
+		f << a.day << " " << a.month << " " << a.year << endl << a.role << endl;
+	}
+	f.close();
+	return TRUE;
+}
