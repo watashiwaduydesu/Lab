@@ -14,6 +14,7 @@ int data::loadDataAccountRequest() {
 		else if (a.role == LIBRARIAN) l_lib.push_back(librarian(a));
 		else if (a.role == USER) l_user.push_back(user(a));
 		else { f.close(); return ERROR; }
-		return TRUE;
 	}
+	f.close();
+	return TRUE;
 }
