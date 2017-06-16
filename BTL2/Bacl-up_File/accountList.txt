@@ -1,0 +1,72 @@
+25
+7
+IDA0000000
+user
+163161069
+user.helloQT-IamTester@email.gmail.mail.com
+23985684365
+Nguoi Dung Tester
+0909199919
+31 12 1975
+20001
+45000
+IDA0000001
+librarian
+793925661
+librarian.helloQT-IamTester@email.gmail.mail.com
+23985684365
+Thu Thu Kiem Tra He Thong
+0909199919
+31 12 1975
+20002
+45000
+IDA0000002
+admin
+790633963
+quantrivien@gmail.com
+23985684365
+Quan Tri Vien
+09091992138
+31 12 1975
+20000
+45000
+IDA0000005
+tieutung123
+945110705
+tieu-tung@gmail.com
+1234123423
+Tieu Tung Van
+09999999999
+12 5 1917
+20000
+45001
+IDA0000009
+gian_kho.qua
+780583171
+qua_gian.kho@hcmut.edu.vn
+13845618324
+Qua Gian Kho
+09091234133
+21 1 1972
+20002
+45001
+IDA0000013
+hoang_mang
+466872731
+hoang_mang_123@hcmus.edu.vn
+131435134132
+Qua Hoang Mang
+01233339988
+1 11 1911
+20002
+45001
+IDA0000020
+phanQuan
+696664328
+v@v.vads
+IDA0000025
+Phan Quoc Quan
+12351346131
+2 6 2000
+20002
+45001

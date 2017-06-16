@@ -1,0 +1,142 @@
+95
+28
+IDB0000000
+Code Dao Ki Su - Lap Trinh Vien Dau Phai Chi Biet Code
+Pham Huy Hoang
+Neu cac ban co doc cac blog ve lap trinh o Viet Nam thi co le cai ten Toi di code dao khong co gi qua xa la doi voi cac ban. Voi mong muon chia se kinh nghiem hoc lap trinh va cac ky nang ma anh da trai qua trong suot qua trinh hoc va lam viec voi tu cach la nguoi di truoc cung nhu la mot Developer Full Stack, nen anh da quyet dinh xuat ban sach Code dao ky su - lap trinh vien dau phai chi biet code. Cuon sach nay hoan toan khac nhung cuon sach ve IT va cong nghe tren thi thuong. Nhung bai viet ngan gon va thu vi ve nhung ki nang mem va cung ma mot lap trinh vien phai co, duoc minh rut chiet qua bao kinh nghiem xuong mau. Giong van hai huoc di dom, doc khong he giong sach ki thuat nhung lai de tiep thu. Sach tap trung vao kha nang tu hoc va dinh huong nguoi doc. Co ki nang tu hoc, co dinh huong tot, ban se de dang song sot va thang tien trong nganh nay.
+1
+IDB0000001
+Java Concurrency in Practice
+Brian Goetz
+Java Concurrency in Practice la cuon sach bao quat toan dien va chuyen sau Concurrency. Moi trang la nhung van de tu co ban den phuc tap (kem theo giai phap) ban gap hang ngay. Noi dung trinh bay rat chi tiet va kheo leo theo cach ro rang, suc tich, duoc viet can than, de bam sat, manh ve ap dung thuc te. Ngoai nhieu vi du tuyet voi (code tot, code do, cau hoi), sach giup ban ca ve mat ly thuyet can ban lan ky thuat nang cao. Thay vi trinh bay cac Concurrency APIs cung nhung co che, sach dua ra cac nguyen tac thiet ke, mau va cac mo hinh de ban de trien khai phan mem chinh xac va hieu qua.
+56
+IDB0000002
+Java Performance
+Charlie Hunt - Binu John
+James Gosling tung chia se suy nghi cua ong rang: Neu ban yeu thich tung chi tiet nho nhat ve performance cua cac ung dung Java thi day la quyen sach danh cho ban. Cuon nay phu hop neu ban da kha tot ve Java. Kien thuc trong sach giup nhung chuong trinh cua ban dat duoc toi da hieu qua va gia tri, du no co do phuc tap ra sao, dang chay tren nen tang nao, hoac da duoc viet bao lau. Ban se biet cach xay dung cac thu nghiem cho viec toi uu, hieu ro cac ket qua thu duoc tu do dua ra quyet dinh va lua chon hieu qua, cach do luong tung diem nho nhat cung nhu tranh nhung loi pho bien dan den phan mem hieu suat chua cao, toi uu Java HotSpot VM, cac ung dung chuan va nhieu lop, ung dung Web
+100
+IDB0000005
+Thinking in Java (4th Edition)
+Bruce Eckel
+Thinking In Java 4th Edition la cuon sach dien tu viet ve Java, cuon sach duoc viet boi Bruce Eckel bang tieng anh mot cach cong phu va can than. Diem manh nhat cua cuon nay la nhung vi du thong minh di thang vao van de, noi dung ro rang, cau truc can than. Neu da co kinh nghiem lap trinh, nhat la lap trinh huong doi tuong C++, thi day la lua chon dung dan. Noi dung sach di tu cu phap co ban den kien thuc nang cao, chu trong lap trinh huong doi tuong va cac APIs khac nhau trong Java 2.
+1
+IDB0000015
+Effective Java (2nd Edition)
+Joshua Bloch
+James Gosling, cha de ngon ngu Java tung chia se: Toi uoc minh co cuon sach nay 10 nam truoc. Do gio toi van nghi minh khong can mot cuon sach day Java nao, cho den khi toi biet cuon nay. Cuon sach nay bao quat nhung diem moi ve Generics, Enums, Annotations, Autoboxing, For-each loop, Concurrency,cap nhat ky thuat va nhung cach ap dung moi nhat ve Object, Class, Library, Method, Serialization; nhung loi pho bien khi su dung Java cung nhu cach phong tranh, va cac ky thuat, cach ap dung cua nhung thu vien nhu java.io, java.lang, java.util, java.util.concurrent
+23
+IDB0000018
+Java Puzzlers : Traps, Pitfalls, And Corner Cases
+Traps, Pitfallsm and Corner Cases
+Java Puzzlers : Traps, Pitfalls, And Corner Cases se lam ban trai qua nhung cam xuc kinh ngac, sang mat, nhun nao No cho ban thay nhung diem lua tinh trong ngon ngu Java theo cach ma ban khong the ngo toi. Tham chi neu ban la mot lap trinh vien lao luyen, nhung thu thach trong sach van that su thu vi vi moi cau do deu co do kho duoc viet theo phong cach loi cuon va hai huoc, luon to ve cho ban co hoi de dang suy luan, giai quyet van de va roi, ban lai thay minh sai. Neu ban giai sai, thi tiep do ban se suy luan tai sao lai sai va lam cach nao de sua. (Dung voi dau hang bang cach xem huong dan o trang sau.) Day la cach doc sach hieu qua ma nhieu Dev da chia se. Hoc Java co ban Java Nang Cao va nhieu thu khac.
+340
+IDB0000023
+Head First Java, 2nd Edition
+Kathy Slera & Bert Bates
+Voi cach trinh bay doc dao, phong cach sinh dong, cau do, hinh anh truc quan Head First Java khong chi hay cho bat cu ai moi hoc ve Java ma con tot cho nhung ban da co trinh do cao. Nhung cuon khac chi noi nen viet object.equals(object) thay vi object==object. Con Head First Java giup ly giai vi sao phai viet nhu vay. Tac gia con tinh te de lai nhieu goi y ve phan quan trong bang cau: Ban co the ap dung ky thuat nay trong hau het moi truong hop hoac khong can lo phan phuc tap con lai vi co the ban se khong bao gio phai su dung no. Noi dung tap trung Java 5.0, gom nhung kien thuc lap trinh tu cot loi den nang cao: Class, Object, Thread, Collection, Generics, Enum, Variable Arguments, Auto-boxing, Swing, Networking, Java IO
+1
+IDB0000024
+Java in a Nutshell, 6th Edition
+Benjamin J.Evans & David Flanagan
+Quyen sach nay co cach trinh bay don gian ro rang. Dau tien se gioi thieu cung nhu giup cac ban tiep can nhanh ngon ngu Java, va dac biet la nhung thay doi trong Java 8. Sau do cac ban se duoc dan dan lam quen voi lap trinh huong doi tuong voi nhung cu phap don gian, va tim hieu nhung ky thuat trong lap trinh huong doi tuong. Tiep theo la di qua cac khai niem ve Generics, Enumerations, Annotations va Lambda expressions cung nhu lam quen voi cac APIs ve Java I/O, Java collection cung nhu cac loai dinh dang du lieu. Ngoai ra cac ban cung duoc trinh bay mot cach chi tiet ve concurency va memory trong Java. Noi chung, day la mot quyen sach kha hay va chi tiet ve cac van de trong Java, dac biet la Java 8, rat phu hop voi nhung ban developer da co kinh nghiem.
+2
+IDB0000028
+Core Java Volume I - Fundamentals, 10th Edition
+Cay S. Horstmann
+Day la mot quyen sach kha moi. Noi dung sach trinh bay ve nhung diem moi trong Java 8, cung voi rat nhieu vi du cu the giup cac ban co the hieu sau va ap dung vao nhung truong hop thuc te. Quyen sach bao quat duoc cac khai niem tu cot loi den nang cao, rat dang doc doi voi nhung ban da co kinh nghiem.
+3
+IDB0000030
+Data Structures and Algorithms with Object-Oriented Design Patterns in Java
+Bruno R. Preiss
+Day la cuon sach rat tot de hieu ve cau truc du lieu va giai thuat cua OOD trong ngon ngu Java. Voi bat ki lap trinh vien Java nao, viec phai hieu duoc ngon ngu Java la mot dieu kien hien nhien.
+3
+IDB0000031
+Java Application Development on Linux
+Carl Albing and Michael Schwarz
+La mot cuon sach huong dan phat trien ung dung Java tren nen Linux. Ban co the tim hieu duoc thong qua rat nhieu cac vi du dac trung. Neu cong viec cua ban lam viec chu yeu o linh vuc tai chinh, bao hiem, thi day se la cuon sach ma ban bat buoc phai doc.
+4
+IDB0000032
+Android Programming for Beginners
+John Horton
+Doi voi nhung nguoi moi lam quen voi Java va lap trinh Android, cuon sach Android Programming for Beginners cung cap cho ban mot gioi thieu tuyet voi toi ngon ngu Java thong qua Android. Tac gia cung cap hon 40 ung dung nho xuyen suot cuon sach, di cung voi nhung giai thich don gian va ro rang ve cac chu de. Tu Android Studio, Java, vong doi phat trien cua ung dung, cuon sach nay bao gom tat ca cac van de co ban ban can biet de bat dau voi ung dung Android dau tien cua minh.
+34
+IDB0000033
+Android Programming: The Big Nerd Ranch Guide (2nd Edition)
+Bill Phillips
+Neu ban da co kinh nghiem lap trinh Java, day la mot cuon sach gioi thieu tuyet voi danh cho viec hoc lap trinh Android. Dua tren bootcamp ve Android duoc tai tro boi Big Nerd Ranch, cuon sach nay cung cap mot cach toan dien cac bai thuc hanh, giai thich ngan gon ve cac khai niem lap trinh Android va API. Bao gom Lollipop va material design.
+12
+IDB0000035
+Head First Android Development
+Dawn Griffiths & David Griffiths
+Mot lan nua, cuon sach trong series Head First la rat tuyet voi danh cho cac lap trinh vien. Head First Android Development cung cap mot cach tiep can doc dao, hinh anh truc quan de giup nguoi hoc lap trinh Android thong qua nhung vi du thu vi va hap dan. Ngay ca doi voi nhung nguoi moi bat dau hoc lap trinh Android, cuon sach nay se giup ban lap trinh ung dung Android dau tien cua minh mot cach nhanh nhat. Neu ban la mot nguoi thich hoc theo cach truc quan thi day la cuon sach hoan hao danh cho ban.
+0
+IDB0000038
+Advanced Android Application Development (4th Edition)
+Joseph Annuzzi
+Doi voi cac nha phat trien Android day dan kinh nghiem dang tim kiem cac chu de nang cao va chuyen sau, thi cuon sach Advance Android Application Development la mot su lua chon tuyet voi. Cuon sach nay vuot xa nhung dieu co ban va day nhung ky thuat phat trien Android cao cap de giup cac nha phat trien xay dung cac ung dung chuyen nghiep. Ngoai ra, Advance Android Application Development cung cap cho cac nha phat trien voi mot huong dan tham khao toan dien vo cung huu ich.
+3
+IDB0000040
+Android Programming: Pushing the Limits
+Erik Hellman
+Android Programming: Pushing the Limits la mot su lua chon tuyet voi khac danh cho cac nha phat trien Android day dan kinh nghiem. Cuon sach nay nham muc dich de day ranh gioi cua viec phat trien Android voi nhieu bi quyet, thu thuat va ky thuat it biet hoac chua duoc su dung. Cac chu de bao gom toi uu hoa, da luong, nhan dang giong noi, mat ma, va nhieu thu khac. Android Programming: Pushing the Limits se giup cho ban tro thanh mot nha phat trien Android gioi hon.
+5
+IDB0000056
+The C++ Programming Language, 4th Edition
+Bjarne Stroustrup
+C++ Programming Language la cuon sach huong dan dang tin cay va duoc su dung rong rai nhat tren the gioi. No da duoc cap nhat toan dien theo chuan C++ 11 va C++ 14. Tac gia Stroustrup da giai thich ve cac dac trung C++ 11, thu vien chuan, va cac ky thuat thiet ke chinh. No cung cap huong dan cu the de tan dung nhung cai tien trong hieu suat, do tin cay va ro rang. Cuon sach nay co the yeu cau ban phai co kien thuc lap trinh co ban truoc khi doc no. Neu ban la nguoi moi bat dau thi co the tham khao them cuon sach Programming: Principles and Practice Using C++ cung cua tac gia Stroustrup truoc khi doc cuon sach nay.
+15
+IDB0000057
+Effective Modern C++: 42 Specific Ways to Improve Your Use of C++11 and C++14
+Scott Meyers
+Cuon sach Effective Modern C++ giai thich cac best practice trong C++ 11 va C++ 14. No bao gom cac chu de nhu cac loai tham chieu khac nhau, giai thich mot cach chinh xac va hieu qua cua viec su dung bieu thuc lambda. Thach thuc o day la lam sao hoc cach su dung nhung tinh nang nay mot cach hieu qua nhat. Cuon sach cung cap cac huong dan de phat trien phan mem theo cach chinh xac, hieu qua, co kha nang bao tri, va portable. No mo ta cach lam the nao de viet phan mem thuc su tuyet voi bang cach su dung C++ 11 va C++ 14.
+10
+IDB0000060
+Effective C++: 55 Specific Ways to Improve Your Programs and Designs (3rd Edition)
+Scott Meyers
+Every C++ professional needs a copy of Effective C++. It is an absolute must-read for anyone thinking of doing serious C++ development. If you've never read Effective C++ and you think you know everything about C++, think again.
+25
+IDB0000061
+Exceptional C++: 47 Engineering Puzzles, Programming Problems, and Exception-Safety Solutions
+Herb Sutter
+Exceptional C++ giai thich khai niem bang cach su dung cac cau do va thach thuc lap trinh. No su dung cac huong tiep can khac nhau va cuoi cung dua ra giai phap cho tung van de. Hau het cac van de va giai phap duoc lua chon tu cac chuyen gia hang dau trong cac nhom newsgroup ve C++. Cuon sach giai thich ve template programming, exceptions, lap trinh moi truong da luong (multithreaded), quan ly bo nho va toi uu hoa trong ngon ngu lap trinh C++. Doc gia co the nhay vao bat ky chu de nao ma khong can doc tu dau den cuoi cuon sach. No van chua cap nhat cac tieu chuan C++ 11 hoac C++ 14.
+5
+IDB0000065
+Modern C++ Design: Generic Programming and Design Patterns Applied 1st Edition
+Andrei Alexandrescu
+Modern C++ Design giai thich cac design pattern, generic programming voi cac design practice tot. No giup xay dung cac thanh phan phan mem linh hoat va tai su dung duoc. Tac gia Andrei mo ta cac ky thuat va tinh nang cu the trong C++ duoc su dung trong viec xay dung cac generic component va tiep tuc ap dung cac generic component do vao cac ung dung thuc te.
+1
+IDB0000066
+C++ Coding Standards: 101 Rules, Guidelines, and Best Practices 1st Edition 
+Andrei Alexandrescu
+C++ Coding Standards cung cap nhung huong dan co gia tri, nhung best practice de viet code C++ chat luong cao. Moi muc duoc giai thich voi tieu de, tom tat, thao luan, vi du va tai lieu tham khao. Doc gia co the doc bat ky chu de rieng biet nao ma khong can doc tu dau den cuoi cuon sach. No van chua cap nhat cac tieu chuan C++ 11 hoac C++ 14. Cuon sach nay da doat giai thuong Jolt Productivity Award tai Hoi nghi phat trien phan mem (Software Development Conference) vao nam 2005.
+2
+IDB0000068
+C++ Primer (5th Edition)
+Stanley B. Lippman, Jose Lajoie, Barbara E. Moo
+C++ Primer (tai ban lan thu 5) da cap nhat theo chuan C++ 11. No gioi thieu ngon ngu nay tu nhung tinh nang moi, cac khai niem C++ cot loi, va thu vien mau chuan. Cuon sach giup viec hoc ngon ngu nay thong qua cac vi du lap trinh, giai thich ly ve do dang sau cac quy tac. Neu lap trinh vien muon hoc tu muc co ban den nang cao cua ngon ngu lap trinh C++, thi ho co the chon mot trong hai cuon sach C++ Primer hoac The C++ Programming Language, 4th Edition tac gia Stroustrup.
+2
+IDB0000070
+Accelerated C++: Practical Programming by Example
+Andrew Koenig
+Accelerated C++ huong dan cach viet phan mem tot va manh me hon bang cach su dung ngon ngu C++. No giai thich cac khai niem kha sau bao gom ca viec quan ly bo nho, ngoai le (exception), va template programming. Accelerated  C++ giai thich cac khai niem mot cach ro rang, tu co ban ngon ngu lap trinh den nang cao nhu tinh da hinh (polymorphism), cac ham ao (virtual). No van chua cap nhat len chuan C++ 11. 
+8
+IDB0000070
+The C++ Standard Library: A Tutorial and Reference (2nd Edition)
+Nicolai M. Josuttis
+Cuon sach C++ Standard Library: A Tutorial and Reference, Second Edition, mo ta thu vien nay gio day duoc ket hop vao chuan ngon ngu moi ANSI/ISO C++ (C++ 11). No cung cap tai lieu huong dan toan dien ve moi thanh phan thu vien, bao gom mot gioi thieu ve muc dich va thiet ke cua thu vien do; duoc viet ro rang giai thich cac khai niem phuc tap; cac chi tiet lap trinh thuc te can thiet de su dung co hieu qua; nhung traps va pitfalls; chu ky chinh xac va dinh nghia cua nhieu class va function quan trong nhat; va rat nhieu code vi du.
+10
+IDB0000071
+Programming: Principles and Practice Using C++ (2nd Edition)
+Bjarne Stroustrup
+Bjarne Stroustrup chinh la cha de cua ngon ngu lap trinh C++. Cuon sach nay giai thich cac thanh phan ngon ngu lap trinh co ban cho nhung ai chua biet ve ngon ngu lap trinh nay. No da cap nhat len chuan C++ 11 va C++ 14. Cuon sach nay chu yeu de giai thich ve lap trinh huong doi tuong, generic programming cho cac sinh vien dai hoc.
+100
+IDB0000086
+Nhập môn lập trình
+Nguyễn Văn Toàn - Đỗ Trọng Việt
+Gioi thieu nhung kien thuc ve ngon ngu lap trinh, nguyen ly lap trinh, tu duy lap trinh. Gioi thieu ngon ngu lap trinh C, C++, giup tiep can voi lap trinh thuan tuy.
+150
+IDB0000089
+Nguyên lý ngôn ngữ lập trình
+Trần Quốc Việt - Đinh Công Duẩn - Nguyễn Tất Thi
+Gioi thieu ve cac nguyen li, nguyen tac, tu duy trong lap trinh. Tiep can voi cac ngon ngu lap trinh doi tuong nhu C++, C#, Java. Hoc cac kien thuc co ban va nang cao ve lap trinh giao dien, do hoa bang cac ngon ngu noi tren
+120
